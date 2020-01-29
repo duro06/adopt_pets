@@ -8,6 +8,7 @@ export default [{
     location: 'fourside',
     notes: 'pure breed. Trained for competition'
   },
+
   {
     name: 'Hillary',
     breed: 'mut',
